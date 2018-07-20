@@ -1,5 +1,6 @@
 #write your code here
 
 def countdown
-  while 
+  while x > 0 do
+    puts "#{x} "
 end
